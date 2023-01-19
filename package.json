@@ -1,6 +1,7 @@
 {
   "name": "portfolio-basic",
   "version": "0.1.0",
+  "homepage":"http://kdsingh333.github.io/portfolio-kuldeep",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
@@ -8,7 +9,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "homepage":"http://kdsingh333.github.io/portfolio-kuldeep",
+    
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
